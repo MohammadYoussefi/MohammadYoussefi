@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm MohammadReza Y.
 
-### Full Stack Developer | Python & Django Specialist
+### Just A Programmer | Python & Django Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+Django+Expert;Clean+Code+Enthusiast;Passionate+Learner" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-Full Stack Web Developer specializing in **Python** and **Django**, proficient in modern UI design with **TailwindCSS** and database management with **MySQL**. 
+Web Developer specializing in **Python** and **Django**, proficient in modern UI design with **TailwindCSS** and database management with **MySQL**. 
 
 Passionate about building web applications that are:
 - 🚀 Fast and Responsive
@@ -58,38 +58,31 @@ Passionate about building web applications that are:
 <div align="center">
 
 ### 🛒 Laptop & Computer Store
-
-\`\`\`
-Professional e-commerce website with MVC architecture
-\`\`\`
+**Professional E-commerce Website with MVC Architecture**
 
 **✨ Key Features:**
-- 📦 Smart product and inventory management
-- 🛍️ Advanced shopping cart with automatic calculations
-- 🔍 Advanced search with smart filters
-- 📱 Fully responsive design (Mobile First)
-- 🗄️ Optimized relational database
+- 📦 **Smart Product & Inventory Management** – مدیریت هوشمند محصولات و موجودی
+- 🛍️ **Advanced Shopping Cart** – سبد خرید پیشرفته با محاسبات خودکار
+- 🔍 **Smart Search & Filters** – جستجوی پیشرفته با فیلترهای هوشمند
+- 📱 **Fully Responsive Design** – طراحی کاملاً واکنش‌گرا (Mobile First)
+- 🗄️ **Optimized Relational Database** – پایگاه داده رابطه‌ای بهینه و سریع
 
-**🔧 Tech Stack:** Django • MySQL • TailwindCSS • Alpine.js
+**🔧 Tech Stack:** `Django • MySQL • TailwindCSS • Alpine.js`
 
 ---
 
 ### 🏋️ Diet & Fitness Website
-
-\`\`\`
-Comprehensive health and fitness platform
-\`\`\`
+**Comprehensive Health & Fitness Platform**
 
 **✨ Key Features:**
-- 🥗 Personalized diet plans
-- 💪 Professional fitness tips and workouts
-- 👥 User and program management panel
-- 📊 Progress tracking and personal statistics
-- 🎨 Modern and user-friendly design
+- 🥗 **Personalized Diet Plans** – برنامه‌های غذایی سفارشی و انعطاف‌پذیر
+- 💪 **Professional Fitness Tips & Workouts** – نکات و تمرینات حرفه‌ای فیتنس
+- 👥 **User & Program Management Panel** – مدیریت کاربران و برنامه‌ها
+- 📊 **Progress Tracking & Personal Stats** – پیگیری پیشرفت و آمار شخصی
+- 🎨 **Modern & User-Friendly Design** – طراحی مدرن و کاربرپسند
 
-**🔧 Tech Stack:** Django • PostgreSQL • JavaScript • CSS Grid
+**🔧 Tech Stack:** `Django • PostgreSQL • JavaScript • CSS Grid`
 
-</div>
 
 ---
 
