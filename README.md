@@ -1,11 +1,4 @@
-import { useState } from "react";
-import { Textarea } from "@/components/ui/textarea";
-import { Button } from "@/components/ui/button";
-import { Card } from "@/components/ui/card";
-import { Copy, Download, Eye } from "lucide-react";
-import { toast } from "sonner";
 
-const defaultReadme = `<div align="center">
 
 # 👋 سلام، من محمدرضا ی.
 
