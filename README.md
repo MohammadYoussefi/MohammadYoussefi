@@ -1,22 +1,18 @@
-
-
 # 👋 Hi, I'm MohammadReza Y.
 
 ### Just A Programmer | Python & Django Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+Django+Expert;Clean+Code+Enthusiast;Passionate+Learner" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/MohammadReza.Y?style=social)](https://github.com/MohammadReza.Y)
+[![GitHub followers](https://img.shields.io/github/followers/MohammadYoussefi?style=social)](https://github.com/MohammadYoussefi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
-
-</div>
 
 ---
 
 ## 🎯 About Me
 
-Web Developer specializing in **Python** and **Django**, proficient in modern UI design with **TailwindCSS** and database management with **MySQL**. 
+Web Developer specializing in **Python** and **Django**, proficient in modern UI design with **TailwindCSS** and database management with **MySQL**.  
 
 Passionate about building web applications that are:
 - 🚀 Fast and Responsive
@@ -83,6 +79,7 @@ Passionate about building web applications that are:
 
 **🔧 Tech Stack:** `Django • PostgreSQL • JavaScript • CSS Grid`
 
+</div>
 
 ---
 
@@ -101,20 +98,13 @@ Passionate about building web applications that are:
 
 </div>
 
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammadYoussefi.Y&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=14F195&currStreakLabel=8B5CF6)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadReza.Y&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadYoussefi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -140,109 +130,10 @@ Passionate about building web applications that are:
 *Working on new projects and improving my skills*  
 *I'd love to collaborate with you!* ✨
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MohammadReza.Y&color=8B5CF6&style=for-the-badge)](https://github.com/MohammadReza.Y)
+[![Profile Views](https://komarev.com/ghpvc/?username=MohammadYoussefi&color=8B5CF6&style=for-the-badge)](https://github.com/MohammadYoussefi)
 
 ---
 
 **⭐ Like my projects? Give them a star!**
 
 </div>
-`;
-
-
-export const ReadmeEditor = () => {
-  const [markdown, setMarkdown] = useState(defaultReadme);
-  const [showPreview, setShowPreview] = useState(true);
-
-  const handleCopy = () => {
-    navigator.clipboard.writeText(markdown);
-    toast.success("Copied!", {
-      description: "README copied to clipboard"
-    });
-  };
-
-  const handleDownload = () => {
-    const blob = new Blob([markdown], { type: "text/markdown" });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = "README.md";
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
-    toast.success("Downloaded!", {
-      description: "README.md file downloaded"
-    });
-  };
-
-  return (
-    <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 h-full">
-      <Card className="p-6 bg-gradient-to-br from-card/50 to-card backdrop-blur-sm border-primary/20">
-        <div className="flex items-center justify-between mb-4">
-          <h2 className="text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-            Editor
-          </h2>
-          <div className="flex gap-2">
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={handleCopy}
-              className="border-primary/30 hover:bg-primary/10"
-            >
-              <Copy className="w-4 h-4 ml-2" />
-              Copy
-            </Button>
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={handleDownload}
-              className="border-accent/30 hover:bg-accent/10"
-            >
-              <Download className="w-4 h-4 ml-2" />
-              Download
-            </Button>
-          </div>
-        </div>
-        <Textarea
-          value={markdown}
-          onChange={(e) => setMarkdown(e.target.value)}
-          className="min-h-[600px] font-mono text-sm bg-background/50 border-primary/20 focus:border-primary/50 transition-all"
-          placeholder="Write your README here..."
-          dir="ltr"
-        />
-      </Card>
-
-      <Card className="p-6 bg-gradient-to-br from-card/50 to-card backdrop-blur-sm border-accent/20">
-        <div className="flex items-center justify-between mb-4">
-          <h2 className="text-xl font-bold bg-gradient-to-r from-accent to-primary bg-clip-text text-transparent">
-            Preview
-          </h2>
-          <Button
-            variant="outline"
-            size="sm"
-            onClick={() => setShowPreview(!showPreview)}
-            className="border-accent/30 hover:bg-accent/10"
-          >
-            <Eye className="w-4 h-4 ml-2" />
-            {showPreview ? "Hide" : "Show"}
-          </Button>
-        </div>
-        {showPreview && (
-          <div className="min-h-[600px] overflow-auto bg-background/50 rounded-lg p-6 border border-accent/20">
-            <div
-              className="prose prose-invert max-w-none prose-headings:text-foreground prose-p:text-muted-foreground prose-a:text-primary hover:prose-a:text-accent prose-strong:text-foreground prose-code:text-accent"
-              dangerouslySetInnerHTML={{
-                __html: `<iframe srcdoc="${markdown
-                  .replace(/"/g, "&quot;")
-                  .replace(/\n/g, "&#10;")}" 
-                  style="width: 100%; min-height: 600px; border: none; background: #0d1117; color: #c9d1d9;" 
-                  sandbox="allow-same-origin"></iframe>`,
-              }}
-            />
-          </div>
-        )}
-      </Card>
-    </div>
-  );
-};
