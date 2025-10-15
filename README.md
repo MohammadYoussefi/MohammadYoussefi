@@ -2,7 +2,7 @@
 
 ### Just A Programmer | Python & Django Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+Django+Expert;Clean+Code+Enthusiast;Passionate+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Developer;Python+%26+Django+Expert;Clean+Code+Enthusiast;Passionate+Learner" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/MohammadYoussefi?style=social)](https://github.com/MohammadYoussefi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
