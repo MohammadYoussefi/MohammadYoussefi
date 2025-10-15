@@ -57,11 +57,11 @@ Passionate about building web applications that are:
 **Professional E-commerce Website with MVC Architecture**
 
 **✨ Key Features:**
-- 📦 **Smart Product & Inventory Management** – مدیریت هوشمند محصولات و موجودی
-- 🛍️ **Advanced Shopping Cart** – سبد خرید پیشرفته با محاسبات خودکار
-- 🔍 **Smart Search & Filters** – جستجوی پیشرفته با فیلترهای هوشمند
-- 📱 **Fully Responsive Design** – طراحی کاملاً واکنش‌گرا (Mobile First)
-- 🗄️ **Optimized Relational Database** – پایگاه داده رابطه‌ای بهینه و سریع
+- 📦 **Smart Product & Inventory Management** 
+- 🛍️ **Advanced Shopping Cart** 
+- 🔍 **Smart Search & Filters** 
+- 📱 **Fully Responsive Design** 
+- 🗄️ **Optimized Relational Database** 
 
 **🔧 Tech Stack:** `Django • MySQL • TailwindCSS • Alpine.js`
 
@@ -71,11 +71,11 @@ Passionate about building web applications that are:
 **Comprehensive Health & Fitness Platform**
 
 **✨ Key Features:**
-- 🥗 **Personalized Diet Plans** – برنامه‌های غذایی سفارشی و انعطاف‌پذیر
-- 💪 **Professional Fitness Tips & Workouts** – نکات و تمرینات حرفه‌ای فیتنس
-- 👥 **User & Program Management Panel** – مدیریت کاربران و برنامه‌ها
-- 📊 **Progress Tracking & Personal Stats** – پیگیری پیشرفت و آمار شخصی
-- 🎨 **Modern & User-Friendly Design** – طراحی مدرن و کاربرپسند
+- 🥗 **Personalized Diet Plans**
+- 💪 **Professional Fitness Tips & Workouts** 
+- 👥 **User & Program Management Panel**
+- 📊 **Progress Tracking & Personal Stats** 
+- 🎨 **Modern & User-Friendly Design** 
 
 **🔧 Tech Stack:** `Django • PostgreSQL • JavaScript • CSS Grid`
 
