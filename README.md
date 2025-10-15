@@ -76,7 +76,7 @@ Passionate about building web applications that are:
 - 📊 **Progress Tracking & Personal Stats** 
 - 🎨 **Modern & User-Friendly Design** 
 
-**🔧 Tech Stack:** `Django • PostgreSQL • JavaScript • CSS Grid`
+**🔧 Tech Stack:** `Django • MySQL • JavaScript • CSS Grid`
 
 </div>
 
@@ -93,7 +93,7 @@ Passionate about building web applications that are:
 
 </div>
 
----
+
 
 ## 🏆 Achievements
 
