@@ -48,41 +48,6 @@ Passionate about building web applications that are:
 
 </div>
 
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🛒 Laptop & Computer Store
-**Professional E-commerce Website with MVC Architecture**
-
-**✨ Key Features:**
-- 📦 **Smart Product & Inventory Management** 
-- 🛍️ **Advanced Shopping Cart** 
-- 🔍 **Smart Search & Filters** 
-- 📱 **Fully Responsive Design** 
-- 🗄️ **Optimized Relational Database** 
-
-**🔧 Tech Stack:** `Django • MySQL • TailwindCSS • Alpine.js`
-
----
-
-### 🏋️ Diet & Fitness Website
-**Comprehensive Health & Fitness Platform**
-
-**✨ Key Features:**
-- 🥗 **Personalized Diet Plans**
-- 💪 **Professional Fitness Tips & Workouts** 
-- 👥 **User & Program Management Panel**
-- 📊 **Progress Tracking & Personal Stats** 
-- 🎨 **Modern & User-Friendly Design** 
-
-**🔧 Tech Stack:** `Django • MySQL • JavaScript • CSS Grid`
-
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
