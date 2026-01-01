@@ -1,100 +1,162 @@
-# 👋 Hi, I'm Mohammad Youssefi.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Mohammad Youssefi - Portfolio</title>
+<style>
+    body {
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+        background: #f7faff;
+        color: #0f172a;
+        margin: 0;
+        padding: 0;
+    }
 
-### Just A Programmer | Python & Django Specialist
+    .container {
+        max-width: 900px;
+        margin: 40px auto;
+        background: #ffffff;
+        border-radius: 14px;
+        padding: 40px;
+        box-shadow: 0 10px 30px rgba(0, 60, 150, 0.08);
+        border: 1px solid rgba(0, 90, 200, 0.1);
+    }
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Developer;Python+%26+Django+Expert;Clean+Code+Enthusiast;Passionate+Learner" alt="Typing SVG" />
+    h1 {
+        margin-top: 0;
+        color: #0b3d91;
+        letter-spacing: 0.5px;
+    }
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohamad-youssefi-a60b8b342)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:letshaverain@gmail.com)
+    h2 {
+        color: #0b3d91;
+        border-left: 4px solid #3b82f6;
+        padding-left: 10px;
+    }
 
+    .section {
+        margin-top: 30px;
+    }
 
+    .skills-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(300px, 1fr));
+        gap: 8px 30px;
+        margin-top: 10px;
+    }
 
----
+    .card {
+        padding: 16px;
+        border-radius: 10px;
+        border: 1px solid rgba(0, 100, 200, 0.2);
+        background: #f8fbff;
+    }
 
-## 🎯 About Me
+    .footer {
+        text-align: center;
+        margin-top: 40px;
+        color: #475569;
+    }
 
-Web Developer specializing in **Python** and **Django**, proficient in modern UI design with **TailwindCSS** and database management with **MySQL**.  
+    .links a {
+        text-decoration: none;
+        color: #0b3d91;
+        font-weight: 500;
+        margin: 0 10px;
+        border-bottom: 1px solid transparent;
+    }
 
-Passionate about building web applications that are:
-- 🚀 Fast and Responsive
-- 📈 Scalable and Maintainable  
-- 🎨 User Experience Focused
-- 💡 Built with Clean Code Principles
+    .links a:hover {
+        border-bottom: 1px solid #0b3d91;
+    }
 
----
+    .center {
+        text-align: center;
+    }
 
-## 🛠️ Technical Skills
+    .separator {
+        height: 1px;
+        background: rgba(0, 80, 170, 0.25);
+        margin: 30px 0;
+        border-radius: 3px;
+    }
+</style>
+</head>
 
-<div align="center">
+<body>
+<div class="container">
 
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+    <h1>Mohammad Youssefi</h1>
+    <strong>Backend Engineer | Python & Django Specialist</strong>
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+    <div class="section">
+        <h2>About</h2>
+        <p>
+            Dedicated web developer with strong focus on backend engineering using
+            <b>Python</b>, <b>Django</b>, and relational databases. I emphasize performance,
+            scalability, maintainability, and clarity of architecture in every project.
+        </p>
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+        <ul>
+            <li>Clean and well-structured code</li>
+            <li>Production-oriented development</li>
+            <li>Real-world problem solving</li>
+            <li>Continuous improvement mindset</li>
+        </ul>
+    </div>
+
+    <div class="separator"></div>
+
+    <div class="section">
+        <h2>Technical Expertise</h2>
+
+        <div class="skills-grid">
+            <div class="card">
+                <b>Backend Development</b>
+                <p>Python • Django • Django REST Framework • API Design</p>
+            </div>
+
+            <div class="card">
+                <b>Frontend</b>
+                <p>HTML5 • CSS3 • Tailwind CSS • JavaScript • Alpine.js</p>
+            </div>
+
+            <div class="card">
+                <b>Databases</b>
+                <p>MySQL • PostgreSQL</p>
+            </div>
+
+            <div class="card">
+                <b>Tools & Environment</b>
+                <p>Git • Docker • Linux</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="separator"></div>
+
+    <div class="section center">
+        <h2>GitHub Overview</h2>
+        <img height="170"
+             src="https://github-readme-stats.vercel.app/api?username=MohammadYoussefi&show_icons=true&theme=tokyonight"
+             alt="Github Stats">
+    </div>
+
+    <div class="separator"></div>
+
+    <div class="section center">
+        <h2>Contact</h2>
+        <div class="links">
+            <a href="https://linkedin.com/in/mohamad-youssefi-a60b8b342">LinkedIn</a>
+            <a href="mailto:letshaverain@gmail.com">Email</a>
+            <a href="https://t.me/Mohammadr_youssefi">Telegram</a>
+        </div>
+    </div>
+
+    <p class="footer">
+        Open to collaboration on meaningful and technically engaging projects.
+    </p>
 
 </div>
-
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- GitHub Stats (Commits, Repos, Stars) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadYoussefi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=14F195&text_color=FFFFFF"/>
-
-
-
-</div>
-
-
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadYoussefi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-youssefi-a60b8b342)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](letshaverain@gmail.com.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohammadr_youssefi)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Currently...
-
-*Working on new projects and improving my skills*  
-*I'd love to collaborate with you!* ✨
-
-[![Profile Views](https://komarev.com/ghpvc/?username=MohammadYoussefi&color=8B5CF6&style=for-the-badge)](https://github.com/MohammadYoussefi)
-
----
-
-**⭐ Like my projects? Give them a star!**
-
-</div>
+</body>
+</html>
