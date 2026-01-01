@@ -42,26 +42,25 @@ Dedicated web developer with strong focus on backend engineering using **Python*
 
 * Experience building scalable backend systems
 * Hands-on practice with database optimization and structure design
-* Familiar with CI/CD workflows
 * Comfortable working in collaborative development environments
 
 ---
 
 ## GitHub Overview
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadYoussefi&show_icons=true&theme=transparent" />
-</p>
-
----
+<div align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammadYoussefi&show_icons=true&theme=blue_navy">
+</div>
 
 ## Get in Touch
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohamad-youssefi-a60b8b342">LinkedIn</a> ·
-  <a href="mailto:letshaverain@gmail.com">Email</a> ·
-  <a href="https://t.me/Mohammadr_youssefi">Telegram</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-youssefi-a60b8b342)
+[![Email](https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letshaverain@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohammadr_youssefi)
+
+</div>
+
+
 
 ---
 
